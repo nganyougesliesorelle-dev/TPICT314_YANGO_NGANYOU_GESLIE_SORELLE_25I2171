@@ -44,7 +44,7 @@ Une fois l'analyse lancée, j'ai exploré les sections suivantes dans la colonne
   ---
 
   ## CONCLUSION
-  Durant ce test j'ai pu comprendre et apprendre comment extraires ou récupéerer des données  supprimées .
+  Durant ce test j'ai pu comprendre et apprendre comment extraires ou récupérer des données  supprimées dans les supports comme : cle USB  .
 
 
 
