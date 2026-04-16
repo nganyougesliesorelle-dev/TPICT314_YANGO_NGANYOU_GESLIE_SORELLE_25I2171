@@ -48,6 +48,3 @@ Une fois l'analyse lancée, j'ai exploré les sections suivantes dans la colonne
 
 
 
-
-
-**Geslie Sorelle Yang Nganyou** Étudiante en Bachelor ICT (Information and Communication Technology)
