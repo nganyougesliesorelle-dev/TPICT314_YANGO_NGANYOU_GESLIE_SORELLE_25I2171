@@ -4,7 +4,7 @@
 
 ---
 
-##  Introduction
+##  INTRODUCTION
 Autopsy est une plateforme d'investigation numérique "open source" utilisée pour analyser les disques durs, les smartphones et les supports de stockage. 
 
 ---
@@ -39,6 +39,7 @@ Une fois l'analyse lancée, j'ai exploré les sections suivantes dans la colonne
 * Cliquer sur l'icône **"Generate Report"**.
 * Sélectionner le format **"HTML Report"**.
 * Consulter le fichier `index.html` généré dans le dossier du cas pour voir la synthèse des preuves marquées.
+  ---
 
   ## CONCLUSION
   Durant ce test j'ai pu comprendre et apprendre comment extraires ou récupéerer des données  supprimées .
