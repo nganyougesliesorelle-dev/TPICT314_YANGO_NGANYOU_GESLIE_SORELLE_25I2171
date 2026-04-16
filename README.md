@@ -39,6 +39,8 @@ Une fois l'analyse lancée, j'ai exploré les sections suivantes dans la colonne
 * Cliquer sur l'icône **"Generate Report"**.
 * Sélectionner le format **"HTML Report"**.
 * Consulter le fichier `index.html` généré dans le dossier du cas pour voir la synthèse des preuves marquées.
+
+  
   ---
 
   ## CONCLUSION
